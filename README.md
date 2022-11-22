@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aradia-AAT, 
-- 👀 I’m interested in techl
+- 👀 I’m interested in css, html, javascirpt, mysql
 - 🌱 I’m currently learning angular and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
